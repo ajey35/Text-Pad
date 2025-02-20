@@ -1,5 +1,9 @@
 # FLTK Setup and Compilation on Windows with MinGW
 
+## Working Demo Video
+
+<video controls src="text-editor.mp4" title="Title"></video>
+
 ## Prerequisites
 - Windows OS
 - MinGW (64-bit recommended)
